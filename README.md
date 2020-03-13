@@ -1,3 +1,12 @@
+***Kermur's fork***
+
+The only thing I do is enable manual mesh leveling and override TH3D's 5x5 mesh in favor of 3x3.
+
+****************************************
+
+
+
+
 **This firmware is maintained by TH3D. The goal is an easy to use firmware for 3D printers that we have added support for.**
 
 **The issues queue has been disabled as some people do not understand it's for firmware problems and not technical support.**
